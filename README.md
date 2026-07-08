@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @maikelthedev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Maikel Frias Mosquea
 
-To be completed
+Full-stack software engineer & cloud systems architect.
 
-<!---
-maikelthedev/maikelthedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+One person who knows the whole architecture — front-end, back-end, infrastructure.
+
+[maikel.dev](https://maikel.dev)
